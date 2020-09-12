@@ -1,12 +1,16 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
-  - name: About
-    link: /about/
-  - name: Contact
-    link: /contact/
+  - name: CRM
+    link: /Prodaric-CRM/
+  - name: ERP
+    link: /Prodaric-ERP/
+  - name: HRM
+    link: /Prodaric-HRM/
+  - name: CCR
+    link: /Prodaric-CCR/
+  - name: LCM
+    link: /Prodaric-LCM/
+  - name: CMS
+    link: /Prodaric-CMS/
 - links:
   - name: Login
     link: /
