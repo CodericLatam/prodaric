@@ -9,16 +9,19 @@ google_maps_javascript_api_key: AIzaSyDzKo2mOdmX99Og6hUtfZvZp3vJx9c_yI4
 disqus_shortname:
 
 logo: https://prodaric.com/images/logo.png
-description: The Productivity Framework
+tagline: The Productivity Framework
 image: https://repository-images.githubusercontent.com/293490964/54c29880-f1e7-11ea-89fa-cf72c2b67035
 author:
   name: Neftalí Yagua
   email: despacho@neftaliyagua.com
   twitter: neftaliyagua
-facebook:
-  app_id: 1234
-  publisher: 1234
-  admins: 1234
+#facebook:
+#  app_id: 1234
+#  publisher: 1234
+#  admins: 1234
+twitter:
+  username: Prodaric
+  card: summary
 social:
   name: Prodaric
   links:
