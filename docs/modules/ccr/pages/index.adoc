@@ -1,4 +1,5 @@
-= Ordered Lists
+= Características
+:navtitle: Solicitar características
 
 == Ordered list
 

@@ -1,1 +1,2 @@
-* xref:index.adoc[]
+* Prodaric ERP
+** xref:index.adoc[]

@@ -1,4 +1,6 @@
-= Prodaric
+= Características
+:navtitle: Solicitar características
+
 :example-caption!:
 
 You can add the following inline styles to your content:

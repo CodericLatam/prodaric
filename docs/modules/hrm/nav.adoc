@@ -1,1 +1,2 @@
-* xref:index.adoc[]
+* Prodaric HRM
+** xref:index.adoc[]

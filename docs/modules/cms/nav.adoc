@@ -1,1 +1,2 @@
-* xref:index.adoc[]
+* Prodaric CMS
+** xref:index.adoc[]
