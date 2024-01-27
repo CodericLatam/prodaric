@@ -1,4 +1,4 @@
-= Prodaric CRM: Customer Relationship Management
+= CRM: Customer Relationship Management
 :navtitle: Descripción General
 
 == Ordered list

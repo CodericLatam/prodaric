@@ -1,4 +1,4 @@
-= Prodaric LCM: Learning Content Management
+= LCM: Learning Content Management
 :navtitle: Descripción General
 
 == Ordered list

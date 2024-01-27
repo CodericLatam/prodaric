@@ -1,4 +1,4 @@
-= Prodaric HRM: Human Resource Management
+= HRM: Human Resource Management
 :navtitle: Descripción General
 
 == Ordered list

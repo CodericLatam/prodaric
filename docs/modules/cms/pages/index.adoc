@@ -1,4 +1,4 @@
-= Prodaric CMS: Content Management System
+= CMS: Content Management System
 :navtitle: Descripción General
 
 == Ordered list

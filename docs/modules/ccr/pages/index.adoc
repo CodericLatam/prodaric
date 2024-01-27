@@ -1,4 +1,4 @@
-= Prodaric CCR: Continuity of Care Record
+= CCR: Continuity of Care Record
 :navtitle: Descripción General
 
 == Ordered list
