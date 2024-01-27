@@ -1,5 +1,5 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric: The Productivity Framework
+:navtitle: Descripción General
 
 :example-caption!:
 

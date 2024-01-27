@@ -1,5 +1,5 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric CCR: Continuity of Care Record
+:navtitle: Descripción General
 
 == Ordered list
 

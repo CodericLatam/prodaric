@@ -1,5 +1,5 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric HRM: Human Resource Management
+:navtitle: Descripción General
 
 == Ordered list
 

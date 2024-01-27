@@ -1,5 +1,5 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric CMS: Content Management System
+:navtitle: Descripción General
 
 == Ordered list
 

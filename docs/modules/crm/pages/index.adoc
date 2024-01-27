@@ -1,5 +1,5 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric CRM: Customer Relationship Management
+:navtitle: Descripción General
 
 == Ordered list
 

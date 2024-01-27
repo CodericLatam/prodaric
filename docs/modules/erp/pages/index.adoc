@@ -1,5 +1,6 @@
-= Características
-:navtitle: Solicitar características
+= Prodaric ERP: Enterprise Resource Planning
+:navtitle: Descripción General
+
 
 == Ordered list
 
