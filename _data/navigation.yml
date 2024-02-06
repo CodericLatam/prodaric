@@ -2,6 +2,14 @@
   link: /../docs/
   new_window: false
   highlight: false
+- name: Architecture
+  link: /architecture/
+  new_window: false
+  highlight: false
+- name: Engineering
+  link: /engineering/
+  new_window: false
+  highlight: false
 - name: Blog
   link: /blog/
   new_window: false
