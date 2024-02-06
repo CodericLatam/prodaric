@@ -17,6 +17,7 @@
 				stylesheet.load("web/site.xsl");
 			} else {
 				alert("Document could not be loaded by browser.");
+				location='/';
 			}
 			xmlFile.addEventListener("load", transform, false);
 			stylesheet.addEventListener("load", transform, false);
