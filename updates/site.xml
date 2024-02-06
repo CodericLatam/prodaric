@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Prodaric: The Productivity Framework" url="https://codericlatam.github.io/Prodaric/">
+   </description>
+   <category-def name="core" label="Prodaric Core"/>
+   <category-def name="crm" label="Prodaric CRM"/>
+   <category-def name="erp" label="Prodaric erp"/>
+   <category-def name="hrm" label="Prodaric hrm"/>
+   <category-def name="ccr" label="Prodaric CCR"/>
+   <category-def name="lcm" label="Prodaric LCM"/>
+   <category-def name="cms" label="Prodaric CMS"/>
+</site>
