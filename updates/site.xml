@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Prodaric: The Productivity Framework" url="https://codericlatam.github.io/Prodaric/">
+   <description name="Prodaric: The Productivity Framework" url="https://codericlatam.github.io/Prodaric">
+      
    </description>
+   <feature url="features/org.eclipse.platform_4.30.0.v20231201-0512.jar" id="org.eclipse.platform" version="4.30.0.v20231201-0512">
+      <category name="core"/>
+   </feature>
    <category-def name="core" label="Prodaric Core"/>
    <category-def name="crm" label="Prodaric CRM"/>
    <category-def name="erp" label="Prodaric erp"/>
