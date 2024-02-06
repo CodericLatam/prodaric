@@ -3,6 +3,9 @@
    <description name="Prodaric: The Productivity Framework" url="https://codericlatam.github.io/Prodaric">
       The Productivity Framework It is a fascinating vision, in the logical argument of not continuing to reinvent the wheel, we have decided not to continue in the stone age making the same needs for each application we want to do. Thinking smart is advancing sustainable development.
    </description>
+   <feature url="features/org.eclipse.platform_4.30.0.v20231201-0512.jar" id="org.eclipse.platform" version="4.30.0.v20231201-0512">
+      <category name="core"/>
+   </feature>
    <category-def name="core" label="Prodaric Core"/>
    <category-def name="crm" label="Prodaric CRM"/>
    <category-def name="erp" label="Prodaric ERP"/>
