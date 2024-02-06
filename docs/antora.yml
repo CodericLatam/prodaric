@@ -9,8 +9,9 @@ asciidoc:
 nav:
 - modules/ROOT/nav.adoc
 - modules/crm/nav.adoc
-- modules/ccr/nav.adoc
 - modules/erp/nav.adoc
+- modules/scm/nav.adoc
+- modules/hrm/nav.adoc
+- modules/ccr/nav.adoc
 - modules/lcm/nav.adoc
 - modules/cms/nav.adoc
-- modules/hrm/nav.adoc

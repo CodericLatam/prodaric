@@ -3,6 +3,8 @@
     link: /../CRM/
   - name: Prodaric ERP
     link: /../ERP/
+  - name: Prodaric SCM
+    link: /../SCM/
   - name: Prodaric HRM
     link: /../HRM/
   - name: Prodaric CCR
