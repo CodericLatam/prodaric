@@ -1,2 +1,2 @@
-* Prodaric CRM
+* Prodaric SCM
 ** xref:index.adoc[]

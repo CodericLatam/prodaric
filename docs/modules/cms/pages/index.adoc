@@ -1,4 +1,4 @@
-= CMS: Content Management System
+= CMS: Supply Chain Management
 :navtitle: Descripción General
 
 TODO
