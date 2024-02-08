@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag', '2.8.0'
   gem 'jekyll-sitemap'
   gem 'jekyll-asciidoc', '3.0.1'
+  gem "jekyll-remote-theme"
 end

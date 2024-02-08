@@ -86,6 +86,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 
 exclude:
   - Gemfile
@@ -125,3 +126,4 @@ asciidoctor:
     idseparator: _
     stylesdir: css
     source-highlighter: coderay
+remote_theme: CodericLatam/jekyll-theme-prodaric
