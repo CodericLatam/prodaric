@@ -10,6 +10,10 @@
   link: /engineering/
   new_window: false
   highlight: false
+- name: Third-party
+  link: /3rdparty/
+  new_window: false
+  highlight: false
 - name: Blog
   link: /blog/
   new_window: false
