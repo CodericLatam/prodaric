@@ -126,4 +126,4 @@ asciidoctor:
     idseparator: _
     stylesdir: css
     source-highlighter: coderay
-remote_theme: CodericDev/jekyll-theme-prodaric
+remote_theme: Coderic/jekyll-theme-prodaric
